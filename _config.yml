@@ -12,7 +12,7 @@ navigation:
   - title: 產品
     url: product
   
-    - title: 產品資訊分析表
+  - title: 產品資訊分析表
     url: product_swot
     
   - title: WebAPP項目計畫
