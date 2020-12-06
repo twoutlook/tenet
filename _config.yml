@@ -7,22 +7,15 @@ navigation:
     url: /
 
     
-  - title: 回顧
-    url: review
-  
   - title: 計畫
     url: plan
     
   - title: 規格
     url: spec
     
-  - title: 討論與決策
-    url: decision
+  - title: 文檔
+    url: docs
     
-    
- 
-  - title: 技術底層
-    url: setup
     
     
     
