@@ -1,0 +1,28 @@
+theme: jekyll-theme-slate
+title: GitHub pages template
+description: A simple template based on minimal jekyll theme
+show_downloads: True
+navigation:
+  - title: Home
+    url: /
+
+    
+  - title: 回顧
+    url: review
+  
+  - title: 計畫
+    url: plan
+    
+  - title: 規格
+    url: spec
+    
+  - title: 討論與決策
+    url: decision
+    
+    
+ 
+  - title: 技術底層
+    url: setup
+    
+    
+    
