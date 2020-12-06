@@ -6,8 +6,10 @@ navigation:
   - title: Home
     url: /
 
+  - title: 近期工作計畫
+    url: todo
     
-  - title: 計畫
+  - title: WebAPP項目計畫
     url: plan
     
   - title: 規格
