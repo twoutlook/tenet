@@ -8,6 +8,9 @@ navigation:
 
   - title: 近期工作計畫
     url: todo
+  
+  - title: 產品
+    url: product
     
   - title: WebAPP項目計畫
     url: plan
